@@ -1,6 +1,5 @@
 
 import * from "pacote.js";
-
 try
 {
 
